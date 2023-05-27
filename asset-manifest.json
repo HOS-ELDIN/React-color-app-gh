@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-color-app-gh/static/css/main.f5abfb1f.css",
+    "main.js": "/React-color-app-gh/static/js/main.1d8332e6.js",
+    "index.html": "/React-color-app-gh/index.html",
+    "main.f5abfb1f.css.map": "/React-color-app-gh/static/css/main.f5abfb1f.css.map",
+    "main.1d8332e6.js.map": "/React-color-app-gh/static/js/main.1d8332e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5abfb1f.css",
+    "static/js/main.1d8332e6.js"
+  ]
+}
